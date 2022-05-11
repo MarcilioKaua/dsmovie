@@ -84,7 +84,7 @@ a, a:hover {
 
 .dsmovie-card-description h3 {
     font-size: 14px;
-    font-weight: 700px;
+    font-weight: 700;
     margin-bottom: 25px;
     text-align: center;
 }
@@ -100,4 +100,9 @@ a, a:hover {
     align-items: center;
     justify-content: center;
     border-radius: 4px;
+}
+
+.dsmovie-form-container {
+    padding: 40px 0;
+    max-width: 480px;
 }
